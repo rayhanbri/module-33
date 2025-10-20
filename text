@@ -1,0 +1,48 @@
+<!-- https://web.programming-hero.com/web-11/video/web-11-33-1-how-does-internet-work-http-vs-https-and-what-is-an-api-  -->
+
+
+<!-- 2.what  is  api google  -->
+
+<!-- //json viewer pro  -->
+
+
+<!-- ///////////////////
+ -->
+ 1.app.js
+ 2.fetch.js
+ 3.moreapi.js
+ 4.index.js
+ 5.post.js
+ 6.async.js
+
+
+<!-- crud operation  -->
+
+ <!-- https://web.programming-hero.com/web-11/video/web-11-33-7-get-post-patch-delete-crud-get-vs-post- -->
+
+
+ <!-- network  tab  -->
+
+ <!-- https://web.programming-hero.com/web-11/video/web-11-33-8-debug-api-network-tab-status-code-headers-bad-api -->
+
+
+ <!-- interview question  -->
+
+ <!-- https://web.programming-hero.com/web-11/video/web-11-33-10-interview-question-  -->
+
+
+ <!-- What will be the output?  -->
+
+
+
+<!-- const stuInfo = JSON.stringify({ name: "James", roll: 3 });  -->
+<!-- console.log(stuInfo.name);  -->
+
+
+<!-- What is the full form of JSON? \
+
+JavaScript Object Notation -->
+
+
+
+<!-- What status code will you get for a successful API call? 200 -->
