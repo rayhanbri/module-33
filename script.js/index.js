@@ -10,11 +10,10 @@
 // const showUser = (users) =>{
 //   const container = document.getElementById('user-ol')
   
-//   for(let i=0; i<users.length;i++){
-//     const user = users[i];
-//     // console.log(user.name)
-//     const li = document.createElement ('li');
+//  for(let user of users){
+//     const li = document.createElement('li');
+//     li.classList.add('li')
 //     li.innerText = user.name;
-//     container.appendChild(li);
-//   }
+//     container.appendChild(li)
+//  }
 // }

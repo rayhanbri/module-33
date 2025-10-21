@@ -3,8 +3,6 @@
 //   .then(respose => respose.json())
 //   .then(data=> console.log(data))
 //   .catch(error=> console.log('error dorchi',error) );
-  
-
 // }
 
 
@@ -28,7 +26,7 @@
 
 // const  handle = async() =>{
 //   try{
-//     const response =await ftch('https://jsonplaceholder.typicode.com/users')
+//     const response =await fetch('https://jsonplaceholder.typicode.com/users')
 //   // console.log(response);
 //   const  data = await response.json();
 //   console.log(data)
@@ -39,6 +37,8 @@
 // }
 
 // handle();
+
+
 
 
 

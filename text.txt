@@ -1,11 +1,4 @@
-<!-- https://web.programming-hero.com/web-11/video/web-11-33-1-how-does-internet-work-http-vs-https-and-what-is-an-api-  -->
-
-
-<!-- 2.what  is  api google  -->
-
 <!-- //json viewer pro  -->
-
-
 <!-- ///////////////////
  -->
  1.app.js

@@ -1,0 +1,62 @@
+what is an ip address?  
+IP Address (Internet Protocol Address) is a unique number assigned to every device connected to a network (like the internet or a local network).
+
+IP addresses allow devices to send and receive data. 
+
+what is dns
+DNS (Domain Name System) is like the phonebook of the internet.
+
+You type www.google.com in your browser.
+
+Your computer asks a DNS server: “What’s the IP address of www.google.com?”
+
+DNS server responds with the IP address of Google’s server.
+
+Your browser connects to that IP and loads the website.
+
+
+https vs http   //
+
+| Feature             | HTTP                        | HTTPS                              |
+| ------------------- | --------------------------- | ---------------------------------- |
+| Full Form           | HyperText Transfer Protocol | HyperText Transfer Protocol Secure |
+| Security            | ❌ Not secure                | ✅ Secure (Encrypted using SSL/TLS) |
+| Data Protection     | Data sent in **plain text** | Data is **encrypted**              |
+| Port                | 80                          | 443                                |
+| URL Prefix          | `http://`                   | `https://`                         |
+| SSL/TLS Certificate | ❌ Not required              | ✅ Required                         |
+| Trust Indicator     | ❌ No padlock                | ✅ Padlock in browser, secure       |
+
+
+🔹 How HTTPS Works (Simplified)
+
+Browser requests a secure connection.
+
+Server sends SSL/TLS certificate.
+
+Browser verifies the certificate.
+
+A secure encrypted connection is established.
+
+Data is now transmitted safely.
+
+
+what is server 
+
+🔹 Key Points
+
+Servers can be physical machines or software programs.
+
+They listen for requests from clients and respond with the requested data.
+
+Servers are always “on” or available so clients can access resources anytime
+
+
+how we get  data when we reques for data 
+
+what is api 
+
+API (Application Programming Interface) is a set of rules and protocols that allows different software applications to communicate with each other.
+
+API = a messenger that takes requests, tells the system what you want, and returns the response.
+
